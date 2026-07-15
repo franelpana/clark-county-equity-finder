@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Scraper cache (delete to start fresh)
+parcels.json
+done_parts.json
+sales_cache.json
+
+# Output
+clark_county_equity_results.csv
+*.csv
+
+# Editors
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
